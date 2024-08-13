@@ -1,0 +1,20 @@
+header .container-fluid .logoIcon{ 
+  width: 100px;
+}
+
+#product .cardContainer{
+  padding: 0 95px;
+}
+#product .card{
+  width: 250px;
+  height: 400px;
+  cursor: pointer;
+}
+#product .card img{
+  width: 180px;
+  height: 180px;
+  align-self: center;
+}
+#product .priceMonth{
+  font-size: 14px;
+}
